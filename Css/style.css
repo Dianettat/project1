@@ -124,14 +124,14 @@
     height: auto;
 }
 
-.serfer-text div:first-child {
+.serfer-text:first-child {
     font-size: 18px;
     font-family: roboto;
     font-weight: bold;
     text-align: center;
 }
 
-.serfer-text div:last-child {
+.serfer-text:last-child {
     font-size: 14px;
     font-family: roboto;
     text-align: center;
