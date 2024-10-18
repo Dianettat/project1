@@ -1,5 +1,9 @@
 @media (max-width:800px)
 {
+    .body {
+        margin: 0;
+    }
+    
     .menu-hamburger {
         display: block;
         position: absolute;
